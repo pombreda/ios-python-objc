@@ -1,0 +1,1 @@
+A full blown Python wrapper around Objective-C, designed for iOS5 development.  Since PyObjC is broken, this is an open source module written using ctypes.
